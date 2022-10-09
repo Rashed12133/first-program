@@ -1,0 +1,14 @@
+body {
+    background-color: aquamarine;
+}
+h1 {
+    color: white;
+  }
+hr {
+    border-style: dotted none none;
+    border-width: 10px;
+    border-color: grey;
+    width: 5%;
+}
+
+ 
